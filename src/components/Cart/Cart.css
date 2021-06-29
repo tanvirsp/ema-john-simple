@@ -1,0 +1,27 @@
+.cart-section {
+    text-align: center;
+}
+.cart-title {
+    margin-bottom: -15px;
+
+}
+
+.cart-section table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+    padding: 10px;
+    margin: 5px 20px;
+    
+}
+
+.cart-section table tr, td {
+    border: 1px solid lightgray;
+    padding: 5px 10px;
+}
+.total-price {
+    color: yellow;
+    font-weight: 600;
+    font-size: 18px;
+    background-color:rgb(10, 10, 10);
+}
